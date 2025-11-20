@@ -5,10 +5,14 @@ The Api only caters for word numbers "One" - "Ten"
 
 ## Prerequisites:
 - Visual Studio 2022
-- Clone project from <li>https://github.com/LiamForbay07/NewRepo.git</li>
+- Clone project from [repo](https://github.com/LiamForbay07/NewRepo.git)
 - Understanding of C# language
 - All packages are already intstalled on project
 
+## How to clone repo via terminal:
+```bash
+git clone https://github.com/LiamForbay07/NewRepo.git
+```
 
 ## Projects in NumberWordAnalyzerApi.sln include:
 - NumberWordAnalyzerApi (Consists of DTOs, BusinessLogic, Interfaces, Controllers, Helpers, appsettings.json)
