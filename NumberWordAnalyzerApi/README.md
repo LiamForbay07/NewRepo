@@ -21,6 +21,10 @@ git clone https://github.com/LiamForbay07/NewRepo.git
 ## How to use api:
 - Runs on localhost.
 - Opens swagger api on local host, if not simply add "swagger" in to the url (e.g. "https://localhost:{portnumber}/swagger")
+- For testing convenience, there are random and order string generators found on the swagger url
+```
+![SwaggerEndPoints](./SwaggerSnippet.png)
+```
 
 ## How to run tests:
 - Go to NumberWordAnalyzer.UnitTest > NumberWordAnalyzerTests.cs,
