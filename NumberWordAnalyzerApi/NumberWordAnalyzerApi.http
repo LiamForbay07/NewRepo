@@ -1,0 +1,6 @@
+@NumberWordAnalyzerApi_HostAddress = http://localhost:5002
+
+GET {{NumberWordAnalyzerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
