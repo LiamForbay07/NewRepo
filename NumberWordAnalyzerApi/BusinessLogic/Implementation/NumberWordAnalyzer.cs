@@ -47,7 +47,8 @@ namespace NumberWordAnalyzerApi.BusinessLogic.Implementation
                         Count = kv.Value
                     }).ToList();
                 }
-            }catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 throw new Exception(ex.Message);
             }
